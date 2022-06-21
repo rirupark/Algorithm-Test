@@ -4,4 +4,3 @@
 import Foundation
 
 
-// main 파일 초기화

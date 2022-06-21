@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		677D97CE28608807005FC3A0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 679E11B3285F8C5200A75755 /* main.swift */; };
+		677D97D02861A13B005FC3A0 /* Lv1. lotto.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677D97CF2861A13B005FC3A0 /* Lv1. lotto.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,6 +25,7 @@
 
 /* Begin PBXFileReference section */
 		677D97CB28608734005FC3A0 /* boostcamp_function_test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = boostcamp_function_test.swift; sourceTree = "<group>"; };
+		677D97CF2861A13B005FC3A0 /* Lv1. lotto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. lotto.swift"; sourceTree = "<group>"; };
 		679E11B0285F8C5200A75755 /* Algorithm Test */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Algorithm Test"; sourceTree = BUILT_PRODUCTS_DIR; };
 		679E11B3285F8C5200A75755 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -39,6 +41,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		677D97D12861A17E005FC3A0 /* Level 1 */ = {
+			isa = PBXGroup;
+			children = (
+				677D97CF2861A13B005FC3A0 /* Lv1. lotto.swift */,
+			);
+			path = "Level 1";
+			sourceTree = "<group>";
+		};
+		677D97D22861A18C005FC3A0 /* Level 2 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Level 2";
+			sourceTree = "<group>";
+		};
 		679E11A7285F8C5200A75755 = {
 			isa = PBXGroup;
 			children = (
@@ -58,6 +75,8 @@
 		679E11B2285F8C5200A75755 /* Algorithm Test */ = {
 			isa = PBXGroup;
 			children = (
+				677D97D22861A18C005FC3A0 /* Level 2 */,
+				677D97D12861A17E005FC3A0 /* Level 1 */,
 				679E11B3285F8C5200A75755 /* main.swift */,
 				677D97CB28608734005FC3A0 /* boostcamp_function_test.swift */,
 			);
@@ -122,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				677D97D02861A13B005FC3A0 /* Lv1. lotto.swift in Sources */,
 				677D97CE28608807005FC3A0 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
