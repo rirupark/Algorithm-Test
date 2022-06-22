@@ -49,3 +49,16 @@ func solution(_ lottos:[Int], _ win_nums:[Int]) -> [Int] {
   return result
 }
 
+
+// 짧은 코드 with filter
+//import Foundation
+//
+//func solution(_ lottos:[Int], _ win_nums:[Int]) -> [Int] {
+//
+//    let zeroCount = lottos.filter { $0 == 0}.count
+//    let winCount: Int = win_nums.filter { lottos.contains($0) }.count
+//
+//
+//    return [min(7-winCount-zeroCount,6), min(7-winCount,6)]
+//}
+
