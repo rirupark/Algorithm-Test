@@ -15,6 +15,7 @@
 		677D97DA28644FE4005FC3A0 /* Lv1. mockTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677D97D928644FE4005FC3A0 /* Lv1. mockTest.swift */; };
 		677D97DC286463A6005FC3A0 /* Lv1. gymSuit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677D97DB286463A6005FC3A0 /* Lv1. gymSuit.swift */; };
 		678DFD662865A6AE0098E308 /* Lv1. sumOfInts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 678DFD652865A6AE0098E308 /* Lv1. sumOfInts.swift */; };
+		678DFD682865AAB20098E308 /* Lv1. receiveReport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 678DFD672865AAB20098E308 /* Lv1. receiveReport.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -38,6 +39,7 @@
 		677D97D928644FE4005FC3A0 /* Lv1. mockTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. mockTest.swift"; sourceTree = "<group>"; };
 		677D97DB286463A6005FC3A0 /* Lv1. gymSuit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. gymSuit.swift"; sourceTree = "<group>"; };
 		678DFD652865A6AE0098E308 /* Lv1. sumOfInts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. sumOfInts.swift"; sourceTree = "<group>"; };
+		678DFD672865AAB20098E308 /* Lv1. receiveReport.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. receiveReport.swift"; sourceTree = "<group>"; };
 		679E11B0285F8C5200A75755 /* Algorithm Test */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Algorithm Test"; sourceTree = BUILT_PRODUCTS_DIR; };
 		679E11B3285F8C5200A75755 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -63,6 +65,7 @@
 				677D97D928644FE4005FC3A0 /* Lv1. mockTest.swift */,
 				677D97DB286463A6005FC3A0 /* Lv1. gymSuit.swift */,
 				678DFD652865A6AE0098E308 /* Lv1. sumOfInts.swift */,
+				678DFD672865AAB20098E308 /* Lv1. receiveReport.swift */,
 			);
 			path = "Level 1";
 			sourceTree = "<group>";
@@ -160,6 +163,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				678DFD662865A6AE0098E308 /* Lv1. sumOfInts.swift in Sources */,
+				678DFD682865AAB20098E308 /* Lv1. receiveReport.swift in Sources */,
 				677D97D42861D126005FC3A0 /* Lv1. newID.swift in Sources */,
 				677D97DA28644FE4005FC3A0 /* Lv1. mockTest.swift in Sources */,
 				677D97D828634ACE005FC3A0 /* Lv1. KthNum.swift in Sources */,
