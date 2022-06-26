@@ -17,6 +17,7 @@
 		678DFD662865A6AE0098E308 /* Lv1. sumOfInts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 678DFD652865A6AE0098E308 /* Lv1. sumOfInts.swift */; };
 		678DFD682865AAB20098E308 /* Lv1. receiveReport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 678DFD672865AAB20098E308 /* Lv1. receiveReport.swift */; };
 		678DFD6A286610700098E308 /* Lv1. addNonExistNum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 678DFD69286610700098E308 /* Lv1. addNonExistNum.swift */; };
+		678DFD6C2866F8D20098E308 /* Lv2. CompressionOfStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 678DFD6B2866F8D20098E308 /* Lv2. CompressionOfStrings.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -42,6 +43,7 @@
 		678DFD652865A6AE0098E308 /* Lv1. sumOfInts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. sumOfInts.swift"; sourceTree = "<group>"; };
 		678DFD672865AAB20098E308 /* Lv1. receiveReport.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. receiveReport.swift"; sourceTree = "<group>"; };
 		678DFD69286610700098E308 /* Lv1. addNonExistNum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. addNonExistNum.swift"; sourceTree = "<group>"; };
+		678DFD6B2866F8D20098E308 /* Lv2. CompressionOfStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv2. CompressionOfStrings.swift"; sourceTree = "<group>"; };
 		679E11B0285F8C5200A75755 /* Algorithm Test */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Algorithm Test"; sourceTree = BUILT_PRODUCTS_DIR; };
 		679E11B3285F8C5200A75755 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -76,6 +78,7 @@
 		677D97D22861A18C005FC3A0 /* Level 2 */ = {
 			isa = PBXGroup;
 			children = (
+				678DFD6B2866F8D20098E308 /* Lv2. CompressionOfStrings.swift */,
 			);
 			path = "Level 2";
 			sourceTree = "<group>";
@@ -174,6 +177,7 @@
 				677D97D02861A13B005FC3A0 /* Lv1. lotto.swift in Sources */,
 				677D97CE28608807005FC3A0 /* main.swift in Sources */,
 				677D97D628630E50005FC3A0 /* Lv1. craneGame.swift in Sources */,
+				678DFD6C2866F8D20098E308 /* Lv2. CompressionOfStrings.swift in Sources */,
 				677D97DC286463A6005FC3A0 /* Lv1. gymSuit.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
