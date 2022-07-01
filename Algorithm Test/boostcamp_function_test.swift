@@ -26,6 +26,27 @@ func solution(array: [Int]) -> [Int] {
     return answer
 }
 
+
+// 풀이 방법 1과 비슷하지만 guard를 쓰지 않은 코드
+func solution(array: [Int]) -> [Int] {
+    var answer = [Int]()
+    var set = Set<Int>()
+    array.forEach { element in
+        if !set.contains(element) {
+            set.insert(element)
+            let count = array.filter{ $0 == element }.count
+            if count > 1 {
+            answer.append(count)
+            }
+        }
+    }
+    if answer.count == 0 {
+        answer.append(-1)
+    }
+    return answer
+}
+
+
 // 풀이 방법 2
 func solution2(array: [Int]) -> [Int] {
     var find = [Int]()
