@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		671EC9C5286F380800F021E6 /* Lv1. pressKeypad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 671EC9C4286F380800F021E6 /* Lv1. pressKeypad.swift */; };
+		671EC9C7286F3B3C00F021E6 /* Lv1. primeNum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 671EC9C6286F3B3C00F021E6 /* Lv1. primeNum.swift */; };
 		677D97CE28608807005FC3A0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 679E11B3285F8C5200A75755 /* main.swift */; };
 		677D97D02861A13B005FC3A0 /* Lv1. lotto.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677D97CF2861A13B005FC3A0 /* Lv1. lotto.swift */; };
 		677D97D42861D126005FC3A0 /* Lv1. newID.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677D97D32861D126005FC3A0 /* Lv1. newID.swift */; };
@@ -38,6 +39,7 @@
 
 /* Begin PBXFileReference section */
 		671EC9C4286F380800F021E6 /* Lv1. pressKeypad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. pressKeypad.swift"; sourceTree = "<group>"; };
+		671EC9C6286F3B3C00F021E6 /* Lv1. primeNum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. primeNum.swift"; sourceTree = "<group>"; };
 		677D97CB28608734005FC3A0 /* boostcamp_function_test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = boostcamp_function_test.swift; sourceTree = "<group>"; };
 		677D97CF2861A13B005FC3A0 /* Lv1. lotto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. lotto.swift"; sourceTree = "<group>"; };
 		677D97D32861D126005FC3A0 /* Lv1. newID.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. newID.swift"; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 				678DFD6F2868BEC90098E308 /* Lv1. NumString&English.swift */,
 				678DFD712868D1600098E308 /* Lv1. InnerProduct.swift */,
 				671EC9C4286F380800F021E6 /* Lv1. pressKeypad.swift */,
+				671EC9C6286F3B3C00F021E6 /* Lv1. primeNum.swift */,
 			);
 			path = "Level 1";
 			sourceTree = "<group>";
@@ -192,6 +195,7 @@
 				671EC9C5286F380800F021E6 /* Lv1. pressKeypad.swift in Sources */,
 				677D97D628630E50005FC3A0 /* Lv1. craneGame.swift in Sources */,
 				678DFD722868D1600098E308 /* Lv1. InnerProduct.swift in Sources */,
+				671EC9C7286F3B3C00F021E6 /* Lv1. primeNum.swift in Sources */,
 				678DFD702868BEC90098E308 /* Lv1. NumString&English.swift in Sources */,
 				678DFD6C2866F8D20098E308 /* Lv2. CompressionOfStrings.swift in Sources */,
 				677D97DC286463A6005FC3A0 /* Lv1. gymSuit.swift in Sources */,
