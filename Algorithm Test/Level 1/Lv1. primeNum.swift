@@ -7,7 +7,7 @@
 
 import Foundation
 
-func solution(_ nums:[Int]) -> Int {
+func solutionPrime(_ nums:[Int]) -> Int {
     var sums = [Int]()
     var result = 0
 
