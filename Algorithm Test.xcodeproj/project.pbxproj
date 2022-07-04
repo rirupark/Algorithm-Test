@@ -11,6 +11,7 @@
 		671EC9C7286F3B3C00F021E6 /* Lv1. primeNum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 671EC9C6286F3B3C00F021E6 /* Lv1. primeNum.swift */; };
 		671EC9C92870870100F021E6 /* Lv1. sum2nums.swift in Sources */ = {isa = PBXBuildFile; fileRef = 671EC9C82870870100F021E6 /* Lv1. sum2nums.swift */; };
 		671EC9CB2871C0B400F021E6 /* Lv1. budget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 671EC9CA2871C0B400F021E6 /* Lv1. budget.swift */; };
+		671EC9CD28731FFF00F021E6 /* Lv1. middleChar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 671EC9CC28731FFF00F021E6 /* Lv1. middleChar.swift */; };
 		677D97CE28608807005FC3A0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 679E11B3285F8C5200A75755 /* main.swift */; };
 		677D97D02861A13B005FC3A0 /* Lv1. lotto.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677D97CF2861A13B005FC3A0 /* Lv1. lotto.swift */; };
 		677D97D42861D126005FC3A0 /* Lv1. newID.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677D97D32861D126005FC3A0 /* Lv1. newID.swift */; };
@@ -44,6 +45,7 @@
 		671EC9C6286F3B3C00F021E6 /* Lv1. primeNum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. primeNum.swift"; sourceTree = "<group>"; };
 		671EC9C82870870100F021E6 /* Lv1. sum2nums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. sum2nums.swift"; sourceTree = "<group>"; };
 		671EC9CA2871C0B400F021E6 /* Lv1. budget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. budget.swift"; sourceTree = "<group>"; };
+		671EC9CC28731FFF00F021E6 /* Lv1. middleChar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. middleChar.swift"; sourceTree = "<group>"; };
 		677D97CB28608734005FC3A0 /* boostcamp_function_test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = boostcamp_function_test.swift; sourceTree = "<group>"; };
 		677D97CF2861A13B005FC3A0 /* Lv1. lotto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. lotto.swift"; sourceTree = "<group>"; };
 		677D97D32861D126005FC3A0 /* Lv1. newID.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. newID.swift"; sourceTree = "<group>"; };
@@ -92,6 +94,7 @@
 				671EC9C6286F3B3C00F021E6 /* Lv1. primeNum.swift */,
 				671EC9C82870870100F021E6 /* Lv1. sum2nums.swift */,
 				671EC9CA2871C0B400F021E6 /* Lv1. budget.swift */,
+				671EC9CC28731FFF00F021E6 /* Lv1. middleChar.swift */,
 			);
 			path = "Level 1";
 			sourceTree = "<group>";
@@ -192,6 +195,7 @@
 				678DFD6E2868A04A0098E308 /* Lv1. 2016.swift in Sources */,
 				671EC9C92870870100F021E6 /* Lv1. sum2nums.swift in Sources */,
 				678DFD662865A6AE0098E308 /* Lv1. sumOfInts.swift in Sources */,
+				671EC9CD28731FFF00F021E6 /* Lv1. middleChar.swift in Sources */,
 				678DFD682865AAB20098E308 /* Lv1. receiveReport.swift in Sources */,
 				678DFD6A286610700098E308 /* Lv1. addNonExistNum.swift in Sources */,
 				677D97D42861D126005FC3A0 /* Lv1. newID.swift in Sources */,
