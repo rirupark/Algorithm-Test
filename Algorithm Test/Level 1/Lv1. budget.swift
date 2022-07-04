@@ -1,9 +1,13 @@
-//  Algorithm Test main 실행파일
-//  Created by 박민주 on 2022/06/21
+//
+//  Lv1. budget.swift
+//  Algorithm Test
+//
+//  Created by 박민주 on 2022/07/03.
+//
 
 import Foundation
 
-func solution(_ d:[Int], _ budget:Int) -> Int {
+func solutionBudget(_ d:[Int], _ budget:Int) -> Int {
     var sum = 0
     var result = 0
     
@@ -15,4 +19,3 @@ func solution(_ d:[Int], _ budget:Int) -> Int {
     
     return result
 }
-
