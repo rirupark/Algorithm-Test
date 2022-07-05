@@ -12,6 +12,7 @@
 		671EC9C92870870100F021E6 /* Lv1. sum2nums.swift in Sources */ = {isa = PBXBuildFile; fileRef = 671EC9C82870870100F021E6 /* Lv1. sum2nums.swift */; };
 		671EC9CB2871C0B400F021E6 /* Lv1. budget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 671EC9CA2871C0B400F021E6 /* Lv1. budget.swift */; };
 		671EC9CD28731FFF00F021E6 /* Lv1. middleChar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 671EC9CC28731FFF00F021E6 /* Lv1. middleChar.swift */; };
+		671EC9CF287325C700F021E6 /* Lv1. failureRate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 671EC9CE287325C700F021E6 /* Lv1. failureRate.swift */; };
 		677D97CE28608807005FC3A0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 679E11B3285F8C5200A75755 /* main.swift */; };
 		677D97D02861A13B005FC3A0 /* Lv1. lotto.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677D97CF2861A13B005FC3A0 /* Lv1. lotto.swift */; };
 		677D97D42861D126005FC3A0 /* Lv1. newID.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677D97D32861D126005FC3A0 /* Lv1. newID.swift */; };
@@ -46,6 +47,7 @@
 		671EC9C82870870100F021E6 /* Lv1. sum2nums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. sum2nums.swift"; sourceTree = "<group>"; };
 		671EC9CA2871C0B400F021E6 /* Lv1. budget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. budget.swift"; sourceTree = "<group>"; };
 		671EC9CC28731FFF00F021E6 /* Lv1. middleChar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. middleChar.swift"; sourceTree = "<group>"; };
+		671EC9CE287325C700F021E6 /* Lv1. failureRate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. failureRate.swift"; sourceTree = "<group>"; };
 		677D97CB28608734005FC3A0 /* boostcamp_function_test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = boostcamp_function_test.swift; sourceTree = "<group>"; };
 		677D97CF2861A13B005FC3A0 /* Lv1. lotto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. lotto.swift"; sourceTree = "<group>"; };
 		677D97D32861D126005FC3A0 /* Lv1. newID.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. newID.swift"; sourceTree = "<group>"; };
@@ -95,6 +97,7 @@
 				671EC9C82870870100F021E6 /* Lv1. sum2nums.swift */,
 				671EC9CA2871C0B400F021E6 /* Lv1. budget.swift */,
 				671EC9CC28731FFF00F021E6 /* Lv1. middleChar.swift */,
+				671EC9CE287325C700F021E6 /* Lv1. failureRate.swift */,
 			);
 			path = "Level 1";
 			sourceTree = "<group>";
@@ -202,6 +205,7 @@
 				671EC9CB2871C0B400F021E6 /* Lv1. budget.swift in Sources */,
 				677D97DA28644FE4005FC3A0 /* Lv1. mockTest.swift in Sources */,
 				677D97D828634ACE005FC3A0 /* Lv1. KthNum.swift in Sources */,
+				671EC9CF287325C700F021E6 /* Lv1. failureRate.swift in Sources */,
 				677D97D02861A13B005FC3A0 /* Lv1. lotto.swift in Sources */,
 				677D97CE28608807005FC3A0 /* main.swift in Sources */,
 				671EC9C5286F380800F021E6 /* Lv1. pressKeypad.swift in Sources */,
