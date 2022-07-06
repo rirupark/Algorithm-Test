@@ -15,6 +15,7 @@
 		671EC9CF287325C700F021E6 /* Lv1. failureRate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 671EC9CE287325C700F021E6 /* Lv1. failureRate.swift */; };
 		671EC9D128747F8700F021E6 /* Lv1. 3baseRadix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 671EC9D028747F8700F021E6 /* Lv1. 3baseRadix.swift */; };
 		671EC9D3287591F900F021E6 /* Lv1. sumOfDivisor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 671EC9D2287591F900F021E6 /* Lv1. sumOfDivisor.swift */; };
+		671EC9D7287597F900F021E6 /* Lv1. MinRectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 671EC9D6287597F900F021E6 /* Lv1. MinRectangle.swift */; };
 		677D97CE28608807005FC3A0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 679E11B3285F8C5200A75755 /* main.swift */; };
 		677D97D02861A13B005FC3A0 /* Lv1. lotto.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677D97CF2861A13B005FC3A0 /* Lv1. lotto.swift */; };
 		677D97D42861D126005FC3A0 /* Lv1. newID.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677D97D32861D126005FC3A0 /* Lv1. newID.swift */; };
@@ -52,6 +53,7 @@
 		671EC9CE287325C700F021E6 /* Lv1. failureRate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. failureRate.swift"; sourceTree = "<group>"; };
 		671EC9D028747F8700F021E6 /* Lv1. 3baseRadix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. 3baseRadix.swift"; sourceTree = "<group>"; };
 		671EC9D2287591F900F021E6 /* Lv1. sumOfDivisor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. sumOfDivisor.swift"; sourceTree = "<group>"; };
+		671EC9D6287597F900F021E6 /* Lv1. MinRectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. MinRectangle.swift"; sourceTree = "<group>"; };
 		677D97CB28608734005FC3A0 /* boostcamp_function_test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = boostcamp_function_test.swift; sourceTree = "<group>"; };
 		677D97CF2861A13B005FC3A0 /* Lv1. lotto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. lotto.swift"; sourceTree = "<group>"; };
 		677D97D32861D126005FC3A0 /* Lv1. newID.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. newID.swift"; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 				671EC9CE287325C700F021E6 /* Lv1. failureRate.swift */,
 				671EC9D028747F8700F021E6 /* Lv1. 3baseRadix.swift */,
 				671EC9D2287591F900F021E6 /* Lv1. sumOfDivisor.swift */,
+				671EC9D6287597F900F021E6 /* Lv1. MinRectangle.swift */,
 			);
 			path = "Level 1";
 			sourceTree = "<group>";
@@ -210,6 +213,7 @@
 				677D97D42861D126005FC3A0 /* Lv1. newID.swift in Sources */,
 				671EC9CB2871C0B400F021E6 /* Lv1. budget.swift in Sources */,
 				677D97DA28644FE4005FC3A0 /* Lv1. mockTest.swift in Sources */,
+				671EC9D7287597F900F021E6 /* Lv1. MinRectangle.swift in Sources */,
 				671EC9D128747F8700F021E6 /* Lv1. 3baseRadix.swift in Sources */,
 				677D97D828634ACE005FC3A0 /* Lv1. KthNum.swift in Sources */,
 				671EC9CF287325C700F021E6 /* Lv1. failureRate.swift in Sources */,
