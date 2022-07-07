@@ -16,6 +16,7 @@
 		671EC9D128747F8700F021E6 /* Lv1. 3baseRadix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 671EC9D028747F8700F021E6 /* Lv1. 3baseRadix.swift */; };
 		671EC9D3287591F900F021E6 /* Lv1. sumOfDivisor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 671EC9D2287591F900F021E6 /* Lv1. sumOfDivisor.swift */; };
 		671EC9D7287597F900F021E6 /* Lv1. MinRectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 671EC9D6287597F900F021E6 /* Lv1. MinRectangle.swift */; };
+		671EC9D92875A5C900F021E6 /* Lv1. insufficientCash.swift in Sources */ = {isa = PBXBuildFile; fileRef = 671EC9D82875A5C900F021E6 /* Lv1. insufficientCash.swift */; };
 		677D97CE28608807005FC3A0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 679E11B3285F8C5200A75755 /* main.swift */; };
 		677D97D02861A13B005FC3A0 /* Lv1. lotto.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677D97CF2861A13B005FC3A0 /* Lv1. lotto.swift */; };
 		677D97D42861D126005FC3A0 /* Lv1. newID.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677D97D32861D126005FC3A0 /* Lv1. newID.swift */; };
@@ -54,6 +55,7 @@
 		671EC9D028747F8700F021E6 /* Lv1. 3baseRadix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. 3baseRadix.swift"; sourceTree = "<group>"; };
 		671EC9D2287591F900F021E6 /* Lv1. sumOfDivisor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. sumOfDivisor.swift"; sourceTree = "<group>"; };
 		671EC9D6287597F900F021E6 /* Lv1. MinRectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. MinRectangle.swift"; sourceTree = "<group>"; };
+		671EC9D82875A5C900F021E6 /* Lv1. insufficientCash.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. insufficientCash.swift"; sourceTree = "<group>"; };
 		677D97CB28608734005FC3A0 /* boostcamp_function_test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = boostcamp_function_test.swift; sourceTree = "<group>"; };
 		677D97CF2861A13B005FC3A0 /* Lv1. lotto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. lotto.swift"; sourceTree = "<group>"; };
 		677D97D32861D126005FC3A0 /* Lv1. newID.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. newID.swift"; sourceTree = "<group>"; };
@@ -107,6 +109,7 @@
 				671EC9D028747F8700F021E6 /* Lv1. 3baseRadix.swift */,
 				671EC9D2287591F900F021E6 /* Lv1. sumOfDivisor.swift */,
 				671EC9D6287597F900F021E6 /* Lv1. MinRectangle.swift */,
+				671EC9D82875A5C900F021E6 /* Lv1. insufficientCash.swift */,
 			);
 			path = "Level 1";
 			sourceTree = "<group>";
@@ -225,6 +228,7 @@
 				671EC9C7286F3B3C00F021E6 /* Lv1. primeNum.swift in Sources */,
 				678DFD702868BEC90098E308 /* Lv1. NumString&English.swift in Sources */,
 				678DFD6C2866F8D20098E308 /* Lv2. CompressionOfStrings.swift in Sources */,
+				671EC9D92875A5C900F021E6 /* Lv1. insufficientCash.swift in Sources */,
 				677D97DC286463A6005FC3A0 /* Lv1. gymSuit.swift in Sources */,
 				671EC9D3287591F900F021E6 /* Lv1. sumOfDivisor.swift in Sources */,
 			);
