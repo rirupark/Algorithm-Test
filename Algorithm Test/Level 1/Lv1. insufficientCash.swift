@@ -6,3 +6,9 @@
 //
 
 import Foundation
+
+func solutionCash(_ price:Int, _ money:Int, _ count:Int) -> Int64{
+    var cash = 0
+    for i in 1...count { cash += i * price }
+    return cash - money > 0 ? Int64(cash - money) : 0
+}
