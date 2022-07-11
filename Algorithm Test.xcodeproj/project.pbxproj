@@ -25,6 +25,7 @@
 		67538358287AB92C0048641C /* Lv1. Mr.Kim.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67538357287AB92C0048641C /* Lv1. Mr.Kim.swift */; };
 		6753835A287ABDCF0048641C /* Lv1. average.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67538359287ABDCF0048641C /* Lv1. average.swift */; };
 		6753835C287C00100048641C /* Lv1. watermelon?.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6753835B287C00100048641C /* Lv1. watermelon?.swift */; };
+		6753835E287C03970048641C /* Lv1. sumOfDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6753835D287C03970048641C /* Lv1. sumOfDigits.swift */; };
 		677D97CE28608807005FC3A0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 679E11B3285F8C5200A75755 /* main.swift */; };
 		677D97D02861A13B005FC3A0 /* Lv1. lotto.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677D97CF2861A13B005FC3A0 /* Lv1. lotto.swift */; };
 		677D97D42861D126005FC3A0 /* Lv1. newID.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677D97D32861D126005FC3A0 /* Lv1. newID.swift */; };
@@ -72,6 +73,7 @@
 		67538357287AB92C0048641C /* Lv1. Mr.Kim.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. Mr.Kim.swift"; sourceTree = "<group>"; };
 		67538359287ABDCF0048641C /* Lv1. average.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. average.swift"; sourceTree = "<group>"; };
 		6753835B287C00100048641C /* Lv1. watermelon?.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. watermelon?.swift"; sourceTree = "<group>"; };
+		6753835D287C03970048641C /* Lv1. sumOfDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. sumOfDigits.swift"; sourceTree = "<group>"; };
 		677D97CF2861A13B005FC3A0 /* Lv1. lotto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. lotto.swift"; sourceTree = "<group>"; };
 		677D97D32861D126005FC3A0 /* Lv1. newID.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. newID.swift"; sourceTree = "<group>"; };
 		677D97D528630E50005FC3A0 /* Lv1. craneGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. craneGame.swift"; sourceTree = "<group>"; };
@@ -133,6 +135,7 @@
 				67538357287AB92C0048641C /* Lv1. Mr.Kim.swift */,
 				67538359287ABDCF0048641C /* Lv1. average.swift */,
 				6753835B287C00100048641C /* Lv1. watermelon?.swift */,
+				6753835D287C03970048641C /* Lv1. sumOfDigits.swift */,
 			);
 			path = "Level 1";
 			sourceTree = "<group>";
@@ -256,6 +259,7 @@
 				671EC9C7286F3B3C00F021E6 /* Lv1. primeNum.swift in Sources */,
 				678DFD702868BEC90098E308 /* Lv1. NumString&English.swift in Sources */,
 				678DFD6C2866F8D20098E308 /* Lv2. CompressionOfStrings.swift in Sources */,
+				6753835E287C03970048641C /* Lv1. sumOfDigits.swift in Sources */,
 				6753835A287ABDCF0048641C /* Lv1. average.swift in Sources */,
 				671EC9D92875A5C900F021E6 /* Lv1. insufficientCash.swift in Sources */,
 				67538358287AB92C0048641C /* Lv1. Mr.Kim.swift in Sources */,
