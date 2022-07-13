@@ -28,6 +28,7 @@
 		6753835E287C03970048641C /* Lv1. sumOfDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6753835D287C03970048641C /* Lv1. sumOfDigits.swift */; };
 		67538360287D466A0048641C /* Lv1. sumOfDivisors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6753835F287D466A0048641C /* Lv1. sumOfDivisors.swift */; };
 		67538363287D4A570048641C /* Lv1. stringInDesc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67538362287D4A570048641C /* Lv1. stringInDesc.swift */; };
+		67538365287E6AC30048641C /* Lv1. rectangleStar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67538364287E6AC30048641C /* Lv1. rectangleStar.swift */; };
 		677D97CE28608807005FC3A0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 679E11B3285F8C5200A75755 /* main.swift */; };
 		677D97D02861A13B005FC3A0 /* Lv1. lotto.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677D97CF2861A13B005FC3A0 /* Lv1. lotto.swift */; };
 		677D97D42861D126005FC3A0 /* Lv1. newID.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677D97D32861D126005FC3A0 /* Lv1. newID.swift */; };
@@ -78,6 +79,7 @@
 		6753835D287C03970048641C /* Lv1. sumOfDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. sumOfDigits.swift"; sourceTree = "<group>"; };
 		6753835F287D466A0048641C /* Lv1. sumOfDivisors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. sumOfDivisors.swift"; sourceTree = "<group>"; };
 		67538362287D4A570048641C /* Lv1. stringInDesc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. stringInDesc.swift"; sourceTree = "<group>"; };
+		67538364287E6AC30048641C /* Lv1. rectangleStar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. rectangleStar.swift"; sourceTree = "<group>"; };
 		677D97CF2861A13B005FC3A0 /* Lv1. lotto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. lotto.swift"; sourceTree = "<group>"; };
 		677D97D32861D126005FC3A0 /* Lv1. newID.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. newID.swift"; sourceTree = "<group>"; };
 		677D97D528630E50005FC3A0 /* Lv1. craneGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. craneGame.swift"; sourceTree = "<group>"; };
@@ -142,6 +144,7 @@
 				6753835D287C03970048641C /* Lv1. sumOfDigits.swift */,
 				6753835F287D466A0048641C /* Lv1. sumOfDivisors.swift */,
 				67538362287D4A570048641C /* Lv1. stringInDesc.swift */,
+				67538364287E6AC30048641C /* Lv1. rectangleStar.swift */,
 			);
 			path = "Level 1";
 			sourceTree = "<group>";
@@ -249,6 +252,7 @@
 				6753834A2876A4FD0048641C /* Lv1. toSortString.swift in Sources */,
 				671EC9CB2871C0B400F021E6 /* Lv1. budget.swift in Sources */,
 				677D97DA28644FE4005FC3A0 /* Lv1. mockTest.swift in Sources */,
+				67538365287E6AC30048641C /* Lv1. rectangleStar.swift in Sources */,
 				671EC9D7287597F900F021E6 /* Lv1. MinRectangle.swift in Sources */,
 				671EC9D128747F8700F021E6 /* Lv1. 3baseRadix.swift in Sources */,
 				67538360287D466A0048641C /* Lv1. sumOfDivisors.swift in Sources */,
