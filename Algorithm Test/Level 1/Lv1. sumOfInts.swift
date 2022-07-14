@@ -13,6 +13,5 @@ func solution(_ absolutes:[Int], _ signs:[Bool]) -> Int {
   for i in 0..<signs.count {
     if signs[i] == false { absolutes[i] = -absolutes[i] }
   }
-  
   return absolutes.reduce(0) { $0 + $1 }
 }
