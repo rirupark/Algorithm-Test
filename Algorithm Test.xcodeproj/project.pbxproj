@@ -32,6 +32,7 @@
 		67538367287E6EB20048641C /* Lv1. removeMin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67538366287E6EB20048641C /* Lv1. removeMin.swift */; };
 		67538369287E758B0048641C /* Lv1. remainder 1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67538368287E758B0048641C /* Lv1. remainder 1.swift */; };
 		6753836B287FDD630048641C /* Lv1. Odd&Even.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6753836A287FDD630048641C /* Lv1. Odd&Even.swift */; };
+		6753836D287FDEEF0048641C /* Lv1. coverPhoneNum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6753836C287FDEEF0048641C /* Lv1. coverPhoneNum.swift */; };
 		677D97CE28608807005FC3A0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 679E11B3285F8C5200A75755 /* main.swift */; };
 		677D97D02861A13B005FC3A0 /* Lv1. lotto.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677D97CF2861A13B005FC3A0 /* Lv1. lotto.swift */; };
 		677D97D42861D126005FC3A0 /* Lv1. newID.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677D97D32861D126005FC3A0 /* Lv1. newID.swift */; };
@@ -86,6 +87,7 @@
 		67538366287E6EB20048641C /* Lv1. removeMin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. removeMin.swift"; sourceTree = "<group>"; };
 		67538368287E758B0048641C /* Lv1. remainder 1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. remainder 1.swift"; sourceTree = "<group>"; };
 		6753836A287FDD630048641C /* Lv1. Odd&Even.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. Odd&Even.swift"; sourceTree = "<group>"; };
+		6753836C287FDEEF0048641C /* Lv1. coverPhoneNum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. coverPhoneNum.swift"; sourceTree = "<group>"; };
 		677D97CF2861A13B005FC3A0 /* Lv1. lotto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. lotto.swift"; sourceTree = "<group>"; };
 		677D97D32861D126005FC3A0 /* Lv1. newID.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. newID.swift"; sourceTree = "<group>"; };
 		677D97D528630E50005FC3A0 /* Lv1. craneGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. craneGame.swift"; sourceTree = "<group>"; };
@@ -154,6 +156,7 @@
 				67538366287E6EB20048641C /* Lv1. removeMin.swift */,
 				67538368287E758B0048641C /* Lv1. remainder 1.swift */,
 				6753836A287FDD630048641C /* Lv1. Odd&Even.swift */,
+				6753836C287FDEEF0048641C /* Lv1. coverPhoneNum.swift */,
 			);
 			path = "Level 1";
 			sourceTree = "<group>";
@@ -271,6 +274,7 @@
 				67538363287D4A570048641C /* Lv1. stringInDesc.swift in Sources */,
 				677D97D828634ACE005FC3A0 /* Lv1. KthNum.swift in Sources */,
 				6753835C287C00100048641C /* Lv1. watermelon?.swift in Sources */,
+				6753836D287FDEEF0048641C /* Lv1. coverPhoneNum.swift in Sources */,
 				671EC9CF287325C700F021E6 /* Lv1. failureRate.swift in Sources */,
 				675383482876A2820048641C /* Lv1. divisibleNumArr.swift in Sources */,
 				677D97D02861A13B005FC3A0 /* Lv1. lotto.swift in Sources */,
