@@ -35,6 +35,7 @@
 		6753836D287FDEEF0048641C /* Lv1. coverPhoneNum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6753836C287FDEEF0048641C /* Lv1. coverPhoneNum.swift */; };
 		6753836F288151330048641C /* Lv1. IntInDesc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6753836E288151330048641C /* Lv1. IntInDesc.swift */; };
 		67538371288155570048641C /* Lv1. harshadNum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67538370288155570048641C /* Lv1. harshadNum.swift */; };
+		675383732882A1FC0048641C /* Lv1. findPrimeNum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 675383722882A1FC0048641C /* Lv1. findPrimeNum.swift */; };
 		677D97CE28608807005FC3A0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 679E11B3285F8C5200A75755 /* main.swift */; };
 		677D97D02861A13B005FC3A0 /* Lv1. lotto.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677D97CF2861A13B005FC3A0 /* Lv1. lotto.swift */; };
 		677D97D42861D126005FC3A0 /* Lv1. newID.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677D97D32861D126005FC3A0 /* Lv1. newID.swift */; };
@@ -92,6 +93,7 @@
 		6753836C287FDEEF0048641C /* Lv1. coverPhoneNum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. coverPhoneNum.swift"; sourceTree = "<group>"; };
 		6753836E288151330048641C /* Lv1. IntInDesc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. IntInDesc.swift"; sourceTree = "<group>"; };
 		67538370288155570048641C /* Lv1. harshadNum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. harshadNum.swift"; sourceTree = "<group>"; };
+		675383722882A1FC0048641C /* Lv1. findPrimeNum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. findPrimeNum.swift"; sourceTree = "<group>"; };
 		677D97CF2861A13B005FC3A0 /* Lv1. lotto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. lotto.swift"; sourceTree = "<group>"; };
 		677D97D32861D126005FC3A0 /* Lv1. newID.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. newID.swift"; sourceTree = "<group>"; };
 		677D97D528630E50005FC3A0 /* Lv1. craneGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. craneGame.swift"; sourceTree = "<group>"; };
@@ -163,6 +165,7 @@
 				6753836C287FDEEF0048641C /* Lv1. coverPhoneNum.swift */,
 				6753836E288151330048641C /* Lv1. IntInDesc.swift */,
 				67538370288155570048641C /* Lv1. harshadNum.swift */,
+				675383722882A1FC0048641C /* Lv1. findPrimeNum.swift */,
 			);
 			path = "Level 1";
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 				671EC9CD28731FFF00F021E6 /* Lv1. middleChar.swift in Sources */,
 				67538369287E758B0048641C /* Lv1. remainder 1.swift in Sources */,
 				678DFD682865AAB20098E308 /* Lv1. receiveReport.swift in Sources */,
+				675383732882A1FC0048641C /* Lv1. findPrimeNum.swift in Sources */,
 				678DFD6A286610700098E308 /* Lv1. addNonExistNum.swift in Sources */,
 				677D97D42861D126005FC3A0 /* Lv1. newID.swift in Sources */,
 				6753834A2876A4FD0048641C /* Lv1. toSortString.swift in Sources */,
