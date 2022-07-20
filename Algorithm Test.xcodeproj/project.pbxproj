@@ -42,6 +42,7 @@
 		6753837C288534F80048641C /* Lv1. strangeChar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6753837B288534F80048641C /* Lv1. strangeChar.swift */; };
 		6753837E2886D1790048641C /* Lv1. countP&Y.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6753837D2886D1790048641C /* Lv1. countP&Y.swift */; };
 		675383802888242B0048641C /* Lv1. sumOfMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6753837F2888242B0048641C /* Lv1. sumOfMatrix.swift */; };
+		6753838228882D060048641C /* Lv1. CaesarCipher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6753838128882D060048641C /* Lv1. CaesarCipher.swift */; };
 		677D97CE28608807005FC3A0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 679E11B3285F8C5200A75755 /* main.swift */; };
 		677D97D02861A13B005FC3A0 /* Lv1. lotto.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677D97CF2861A13B005FC3A0 /* Lv1. lotto.swift */; };
 		677D97D42861D126005FC3A0 /* Lv1. newID.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677D97D32861D126005FC3A0 /* Lv1. newID.swift */; };
@@ -106,6 +107,7 @@
 		6753837B288534F80048641C /* Lv1. strangeChar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. strangeChar.swift"; sourceTree = "<group>"; };
 		6753837D2886D1790048641C /* Lv1. countP&Y.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. countP&Y.swift"; sourceTree = "<group>"; };
 		6753837F2888242B0048641C /* Lv1. sumOfMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. sumOfMatrix.swift"; sourceTree = "<group>"; };
+		6753838128882D060048641C /* Lv1. CaesarCipher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. CaesarCipher.swift"; sourceTree = "<group>"; };
 		677D97CF2861A13B005FC3A0 /* Lv1. lotto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. lotto.swift"; sourceTree = "<group>"; };
 		677D97D32861D126005FC3A0 /* Lv1. newID.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. newID.swift"; sourceTree = "<group>"; };
 		677D97D528630E50005FC3A0 /* Lv1. craneGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. craneGame.swift"; sourceTree = "<group>"; };
@@ -184,6 +186,7 @@
 				6753837B288534F80048641C /* Lv1. strangeChar.swift */,
 				6753837D2886D1790048641C /* Lv1. countP&Y.swift */,
 				6753837F2888242B0048641C /* Lv1. sumOfMatrix.swift */,
+				6753838128882D060048641C /* Lv1. CaesarCipher.swift */,
 			);
 			path = "Level 1";
 			sourceTree = "<group>";
@@ -328,6 +331,7 @@
 				6753837A2885313E0048641C /* Lv1. NspacedbyX.swift in Sources */,
 				6753836B287FDD630048641C /* Lv1. Odd&Even.swift in Sources */,
 				67538371288155570048641C /* Lv1. harshadNum.swift in Sources */,
+				6753838228882D060048641C /* Lv1. CaesarCipher.swift in Sources */,
 				671EC9D3287591F900F021E6 /* Lv1. cnt&sumOfDivisor.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
