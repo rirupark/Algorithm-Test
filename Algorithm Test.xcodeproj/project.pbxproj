@@ -57,6 +57,7 @@
 		678DFD6E2868A04A0098E308 /* Lv1. 2016.swift in Sources */ = {isa = PBXBuildFile; fileRef = 678DFD6D2868A04A0098E308 /* Lv1. 2016.swift */; };
 		678DFD702868BEC90098E308 /* Lv1. NumString&English.swift in Sources */ = {isa = PBXBuildFile; fileRef = 678DFD6F2868BEC90098E308 /* Lv1. NumString&English.swift */; };
 		678DFD722868D1600098E308 /* Lv1. InnerProduct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 678DFD712868D1600098E308 /* Lv1. InnerProduct.swift */; };
+		67C58D97289407850002765B /* Lv1. CollatzConjecture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C58D96289407850002765B /* Lv1. CollatzConjecture.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -123,6 +124,7 @@
 		678DFD712868D1600098E308 /* Lv1. InnerProduct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. InnerProduct.swift"; sourceTree = "<group>"; };
 		679E11B0285F8C5200A75755 /* Algorithm Test */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Algorithm Test"; sourceTree = BUILT_PRODUCTS_DIR; };
 		679E11B3285F8C5200A75755 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		67C58D96289407850002765B /* Lv1. CollatzConjecture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. CollatzConjecture.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -187,6 +189,7 @@
 				6753837D2886D1790048641C /* Lv1. countP&Y.swift */,
 				6753837F2888242B0048641C /* Lv1. sumOfMatrix.swift */,
 				6753838128882D060048641C /* Lv1. CaesarCipher.swift */,
+				67C58D96289407850002765B /* Lv1. CollatzConjecture.swift */,
 			);
 			path = "Level 1";
 			sourceTree = "<group>";
@@ -321,6 +324,7 @@
 				6753836F288151330048641C /* Lv1. IntInDesc.swift in Sources */,
 				678DFD722868D1600098E308 /* Lv1. InnerProduct.swift in Sources */,
 				671EC9C7286F3B3C00F021E6 /* Lv1. primeNum.swift in Sources */,
+				67C58D97289407850002765B /* Lv1. CollatzConjecture.swift in Sources */,
 				678DFD702868BEC90098E308 /* Lv1. NumString&English.swift in Sources */,
 				678DFD6C2866F8D20098E308 /* Lv2. CompressionOfStrings.swift in Sources */,
 				6753835E287C03970048641C /* Lv1. sumOfDigits.swift in Sources */,
