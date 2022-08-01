@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		670E47D42897EF8800EBDCB8 /* Lv1. intSqrt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 670E47D32897EF8800EBDCB8 /* Lv1. intSqrt.swift */; };
 		671EC9C5286F380800F021E6 /* Lv1. pressKeypad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 671EC9C4286F380800F021E6 /* Lv1. pressKeypad.swift */; };
 		671EC9C7286F3B3C00F021E6 /* Lv1. primeNum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 671EC9C6286F3B3C00F021E6 /* Lv1. primeNum.swift */; };
 		671EC9C92870870100F021E6 /* Lv1. sum2nums.swift in Sources */ = {isa = PBXBuildFile; fileRef = 671EC9C82870870100F021E6 /* Lv1. sum2nums.swift */; };
@@ -73,6 +74,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		670E47D32897EF8800EBDCB8 /* Lv1. intSqrt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. intSqrt.swift"; sourceTree = "<group>"; };
 		671EC9C4286F380800F021E6 /* Lv1. pressKeypad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. pressKeypad.swift"; sourceTree = "<group>"; };
 		671EC9C6286F3B3C00F021E6 /* Lv1. primeNum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. primeNum.swift"; sourceTree = "<group>"; };
 		671EC9C82870870100F021E6 /* Lv1. sum2nums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. sum2nums.swift"; sourceTree = "<group>"; };
@@ -190,6 +192,7 @@
 				6753837F2888242B0048641C /* Lv1. sumOfMatrix.swift */,
 				6753838128882D060048641C /* Lv1. CaesarCipher.swift */,
 				67C58D96289407850002765B /* Lv1. CollatzConjecture.swift */,
+				670E47D32897EF8800EBDCB8 /* Lv1. intSqrt.swift */,
 			);
 			path = "Level 1";
 			sourceTree = "<group>";
@@ -337,6 +340,7 @@
 				67538371288155570048641C /* Lv1. harshadNum.swift in Sources */,
 				6753838228882D060048641C /* Lv1. CaesarCipher.swift in Sources */,
 				671EC9D3287591F900F021E6 /* Lv1. cnt&sumOfDivisor.swift in Sources */,
+				670E47D42897EF8800EBDCB8 /* Lv1. intSqrt.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
