@@ -61,6 +61,7 @@
 		678DFD702868BEC90098E308 /* Lv1. NumString&English.swift in Sources */ = {isa = PBXBuildFile; fileRef = 678DFD6F2868BEC90098E308 /* Lv1. NumString&English.swift */; };
 		678DFD722868D1600098E308 /* Lv1. InnerProduct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 678DFD712868D1600098E308 /* Lv1. InnerProduct.swift */; };
 		67C58D97289407850002765B /* Lv1. CollatzConjecture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C58D96289407850002765B /* Lv1. CollatzConjecture.swift */; };
+		67D6903A289AAC890072562D /* Lv2. theLargestNum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67D69039289AAC890072562D /* Lv2. theLargestNum.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -131,6 +132,7 @@
 		679E11B0285F8C5200A75755 /* Algorithm Test */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Algorithm Test"; sourceTree = BUILT_PRODUCTS_DIR; };
 		679E11B3285F8C5200A75755 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		67C58D96289407850002765B /* Lv1. CollatzConjecture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. CollatzConjecture.swift"; sourceTree = "<group>"; };
+		67D69039289AAC890072562D /* Lv2. theLargestNum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv2. theLargestNum.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -207,6 +209,7 @@
 			isa = PBXGroup;
 			children = (
 				678DFD6B2866F8D20098E308 /* Lv2. CompressionOfStrings.swift */,
+				67D69039289AAC890072562D /* Lv2. theLargestNum.swift */,
 			);
 			path = "Level 2";
 			sourceTree = "<group>";
@@ -230,8 +233,8 @@
 		679E11B2285F8C5200A75755 /* Algorithm Test */ = {
 			isa = PBXGroup;
 			children = (
-				677D97D22861A18C005FC3A0 /* Level 2 */,
 				677D97D12861A17E005FC3A0 /* Level 1 */,
+				677D97D22861A18C005FC3A0 /* Level 2 */,
 				679E11B3285F8C5200A75755 /* main.swift */,
 			);
 			path = "Algorithm Test";
@@ -330,6 +333,7 @@
 				677D97CE28608807005FC3A0 /* main.swift in Sources */,
 				671EC9C5286F380800F021E6 /* Lv1. pressKeypad.swift in Sources */,
 				670E47D62897F6BF00EBDCB8 /* Lv1. secretMap.swift in Sources */,
+				67D6903A289AAC890072562D /* Lv2. theLargestNum.swift in Sources */,
 				677D97D628630E50005FC3A0 /* Lv1. craneGame.swift in Sources */,
 				675383562879718E0048641C /* Lv1. flipNum.swift in Sources */,
 				6753836F288151330048641C /* Lv1. IntInDesc.swift in Sources */,
