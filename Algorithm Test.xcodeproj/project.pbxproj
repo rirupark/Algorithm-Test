@@ -63,6 +63,7 @@
 		67C58D97289407850002765B /* Lv1. CollatzConjecture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C58D96289407850002765B /* Lv1. CollatzConjecture.swift */; };
 		67D6903A289AAC890072562D /* Lv2. theLargestNum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67D69039289AAC890072562D /* Lv2. theLargestNum.swift */; };
 		67D6903C289C01800072562D /* Lv2. Printer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67D6903B289C01800072562D /* Lv2. Printer.swift */; };
+		67D6903E289D641A0072562D /* Lv2. FuncDevelopment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67D6903D289D641A0072562D /* Lv2. FuncDevelopment.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -135,6 +136,7 @@
 		67C58D96289407850002765B /* Lv1. CollatzConjecture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. CollatzConjecture.swift"; sourceTree = "<group>"; };
 		67D69039289AAC890072562D /* Lv2. theLargestNum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv2. theLargestNum.swift"; sourceTree = "<group>"; };
 		67D6903B289C01800072562D /* Lv2. Printer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv2. Printer.swift"; sourceTree = "<group>"; };
+		67D6903D289D641A0072562D /* Lv2. FuncDevelopment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv2. FuncDevelopment.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -213,6 +215,7 @@
 				678DFD6B2866F8D20098E308 /* Lv2. CompressionOfStrings.swift */,
 				67D69039289AAC890072562D /* Lv2. theLargestNum.swift */,
 				67D6903B289C01800072562D /* Lv2. Printer.swift */,
+				67D6903D289D641A0072562D /* Lv2. FuncDevelopment.swift */,
 			);
 			path = "Level 2";
 			sourceTree = "<group>";
@@ -305,6 +308,7 @@
 				671EC9C92870870100F021E6 /* Lv1. sum2nums.swift in Sources */,
 				678DFD662865A6AE0098E308 /* Lv1. sumOfInts.swift in Sources */,
 				6753835228796E450048641C /* Lv1. basicString.swift in Sources */,
+				67D6903E289D641A0072562D /* Lv2. FuncDevelopment.swift in Sources */,
 				67538367287E6EB20048641C /* Lv1. removeMin.swift in Sources */,
 				671EC9CD28731FFF00F021E6 /* Lv1. middleChar.swift in Sources */,
 				67538369287E758B0048641C /* Lv1. remainder 1.swift in Sources */,
