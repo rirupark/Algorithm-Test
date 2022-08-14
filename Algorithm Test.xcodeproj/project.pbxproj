@@ -20,6 +20,7 @@
 		671EC9D3287591F900F021E6 /* Lv1. cnt&sumOfDivisor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 671EC9D2287591F900F021E6 /* Lv1. cnt&sumOfDivisor.swift */; };
 		671EC9D7287597F900F021E6 /* Lv1. MinRectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 671EC9D6287597F900F021E6 /* Lv1. MinRectangle.swift */; };
 		671EC9D92875A5C900F021E6 /* Lv1. insufficientCash.swift in Sources */ = {isa = PBXBuildFile; fileRef = 671EC9D82875A5C900F021E6 /* Lv1. insufficientCash.swift */; };
+		6725BA5428A937950066694B /* Lv2. MenuRenewal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6725BA5328A937950066694B /* Lv2. MenuRenewal.swift */; };
 		675383482876A2820048641C /* Lv1. divisibleNumArr.swift in Sources */ = {isa = PBXBuildFile; fileRef = 675383472876A2820048641C /* Lv1. divisibleNumArr.swift */; };
 		6753834A2876A4FD0048641C /* Lv1. toSortString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 675383492876A4FD0048641C /* Lv1. toSortString.swift */; };
 		675383502878105C0048641C /* Lv1. sumBetween2ints.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6753834F2878105C0048641C /* Lv1. sumBetween2ints.swift */; };
@@ -95,6 +96,7 @@
 		671EC9D2287591F900F021E6 /* Lv1. cnt&sumOfDivisor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. cnt&sumOfDivisor.swift"; sourceTree = "<group>"; };
 		671EC9D6287597F900F021E6 /* Lv1. MinRectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. MinRectangle.swift"; sourceTree = "<group>"; };
 		671EC9D82875A5C900F021E6 /* Lv1. insufficientCash.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. insufficientCash.swift"; sourceTree = "<group>"; };
+		6725BA5328A937950066694B /* Lv2. MenuRenewal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv2. MenuRenewal.swift"; sourceTree = "<group>"; };
 		675383472876A2820048641C /* Lv1. divisibleNumArr.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. divisibleNumArr.swift"; sourceTree = "<group>"; };
 		675383492876A4FD0048641C /* Lv1. toSortString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. toSortString.swift"; sourceTree = "<group>"; };
 		6753834F2878105C0048641C /* Lv1. sumBetween2ints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. sumBetween2ints.swift"; sourceTree = "<group>"; };
@@ -225,6 +227,7 @@
 				67CC4E27289ED0CE00870F7B /* Lv2. OpenChatRoom.swift */,
 				67CC4E29289FF27E00870F7B /* Lv2. TargetNum.swift */,
 				67CC4E2B28A16E0A00870F7B /* Lv2. Pair&Remove.swift */,
+				6725BA5328A937950066694B /* Lv2. MenuRenewal.swift */,
 			);
 			path = "Level 2";
 			sourceTree = "<group>";
@@ -316,6 +319,7 @@
 				678DFD6E2868A04A0098E308 /* Lv1. 2016.swift in Sources */,
 				671EC9C92870870100F021E6 /* Lv1. sum2nums.swift in Sources */,
 				678DFD662865A6AE0098E308 /* Lv1. sumOfInts.swift in Sources */,
+				6725BA5428A937950066694B /* Lv2. MenuRenewal.swift in Sources */,
 				6753835228796E450048641C /* Lv1. basicString.swift in Sources */,
 				67D6903E289D641A0072562D /* Lv2. FuncDevelopment.swift in Sources */,
 				67538367287E6EB20048641C /* Lv1. removeMin.swift in Sources */,
