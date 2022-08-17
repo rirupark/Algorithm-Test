@@ -64,6 +64,7 @@
 		67C58D97289407850002765B /* Lv1. CollatzConjecture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C58D96289407850002765B /* Lv1. CollatzConjecture.swift */; };
 		67C97F4528ACE58F00F7FC7B /* Lv2. CorrectParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C97F4428ACE58F00F7FC7B /* Lv2. CorrectParentheses.swift */; };
 		67C97F4728ACEB6700F7FC7B /* Lv2. H-Index.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C97F4628ACEB6700F7FC7B /* Lv2. H-Index.swift */; };
+		67C97F4928ACF0A000F7FC7B /* Lv2. FindPrime.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C97F4828ACF0A000F7FC7B /* Lv2. FindPrime.swift */; };
 		67CC4E28289ED0CE00870F7B /* Lv2. OpenChatRoom.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67CC4E27289ED0CE00870F7B /* Lv2. OpenChatRoom.swift */; };
 		67CC4E2A289FF27E00870F7B /* Lv2. TargetNum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67CC4E29289FF27E00870F7B /* Lv2. TargetNum.swift */; };
 		67CC4E2C28A16E0A00870F7B /* Lv2. Pair&Remove.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67CC4E2B28A16E0A00870F7B /* Lv2. Pair&Remove.swift */; };
@@ -143,6 +144,7 @@
 		67C58D96289407850002765B /* Lv1. CollatzConjecture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. CollatzConjecture.swift"; sourceTree = "<group>"; };
 		67C97F4428ACE58F00F7FC7B /* Lv2. CorrectParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv2. CorrectParentheses.swift"; sourceTree = "<group>"; };
 		67C97F4628ACEB6700F7FC7B /* Lv2. H-Index.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv2. H-Index.swift"; sourceTree = "<group>"; };
+		67C97F4828ACF0A000F7FC7B /* Lv2. FindPrime.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv2. FindPrime.swift"; sourceTree = "<group>"; };
 		67CC4E27289ED0CE00870F7B /* Lv2. OpenChatRoom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv2. OpenChatRoom.swift"; sourceTree = "<group>"; };
 		67CC4E29289FF27E00870F7B /* Lv2. TargetNum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv2. TargetNum.swift"; sourceTree = "<group>"; };
 		67CC4E2B28A16E0A00870F7B /* Lv2. Pair&Remove.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv2. Pair&Remove.swift"; sourceTree = "<group>"; };
@@ -234,6 +236,7 @@
 				6725BA5328A937950066694B /* Lv2. MenuRenewal.swift */,
 				67C97F4428ACE58F00F7FC7B /* Lv2. CorrectParentheses.swift */,
 				67C97F4628ACEB6700F7FC7B /* Lv2. H-Index.swift */,
+				67C97F4828ACF0A000F7FC7B /* Lv2. FindPrime.swift */,
 			);
 			path = "Level 2";
 			sourceTree = "<group>";
@@ -369,6 +372,7 @@
 				678DFD722868D1600098E308 /* Lv1. InnerProduct.swift in Sources */,
 				67C97F4728ACEB6700F7FC7B /* Lv2. H-Index.swift in Sources */,
 				671EC9C7286F3B3C00F021E6 /* Lv1. primeNum.swift in Sources */,
+				67C97F4928ACF0A000F7FC7B /* Lv2. FindPrime.swift in Sources */,
 				67C58D97289407850002765B /* Lv1. CollatzConjecture.swift in Sources */,
 				67CC4E2A289FF27E00870F7B /* Lv2. TargetNum.swift in Sources */,
 				678DFD702868BEC90098E308 /* Lv1. NumString&English.swift in Sources */,
