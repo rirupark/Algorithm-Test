@@ -2,10 +2,4 @@
 //  Created by 박민주 on 2022/06/21
 
 
-import Foundation
 
-func solutionFindPrime(_ numbers:String) -> Int {
-    return 0
-}
-
-print(solutionFindPrime("011"))
