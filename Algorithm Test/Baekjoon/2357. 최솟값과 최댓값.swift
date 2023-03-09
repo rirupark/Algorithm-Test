@@ -4,6 +4,7 @@
 //
 //  Created by 박민주 on 2022/09/20.
 //
+// 구간 트리 (Segment Tree)
 
 import Foundation
 
