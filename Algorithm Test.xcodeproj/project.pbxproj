@@ -73,6 +73,7 @@
 		67D6903C289C01800072562D /* Lv2. Printer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67D6903B289C01800072562D /* Lv2. Printer.swift */; };
 		67D6903E289D641A0072562D /* Lv2. FuncDevelopment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67D6903D289D641A0072562D /* Lv2. FuncDevelopment.swift */; };
 		67E6F92029B9F93A009DF31A /* 11382. 꼬마 정민.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67E6F91F29B9F93A009DF31A /* 11382. 꼬마 정민.swift */; };
+		67E6F92229B9FD81009DF31A /* 25304. 영수증.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67E6F92129B9FD81009DF31A /* 25304. 영수증.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -155,6 +156,7 @@
 		67D6903B289C01800072562D /* Lv2. Printer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv2. Printer.swift"; sourceTree = "<group>"; };
 		67D6903D289D641A0072562D /* Lv2. FuncDevelopment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv2. FuncDevelopment.swift"; sourceTree = "<group>"; };
 		67E6F91F29B9F93A009DF31A /* 11382. 꼬마 정민.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11382. 꼬마 정민.swift"; sourceTree = "<group>"; };
+		67E6F92129B9FD81009DF31A /* 25304. 영수증.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "25304. 영수증.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -182,6 +184,7 @@
 			children = (
 				676A638B28DA06BD00B47349 /* 2357. 최솟값과 최댓값.swift */,
 				67E6F91F29B9F93A009DF31A /* 11382. 꼬마 정민.swift */,
+				67E6F92129B9FD81009DF31A /* 25304. 영수증.swift */,
 			);
 			path = Baekjoon;
 			sourceTree = "<group>";
@@ -368,6 +371,7 @@
 				675383762883FBD80048641C /* Lv1. 최대공약수와 최소공배수.swift in Sources */,
 				6753837C288534F80048641C /* Lv1. strangeChar.swift in Sources */,
 				671EC9D128747F8700F021E6 /* Lv1. 3baseRadix.swift in Sources */,
+				67E6F92229B9FD81009DF31A /* 25304. 영수증.swift in Sources */,
 				67D6903C289C01800072562D /* Lv2. Printer.swift in Sources */,
 				67538360287D466A0048641C /* Lv1. sumOfDivisors.swift in Sources */,
 				675383502878105C0048641C /* Lv1. sumBetween2ints.swift in Sources */,
