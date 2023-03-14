@@ -63,6 +63,7 @@
 		678DFD702868BEC90098E308 /* Lv1. NumString&English.swift in Sources */ = {isa = PBXBuildFile; fileRef = 678DFD6F2868BEC90098E308 /* Lv1. NumString&English.swift */; };
 		678DFD722868D1600098E308 /* Lv1. InnerProduct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 678DFD712868D1600098E308 /* Lv1. InnerProduct.swift */; };
 		67C244C129BF0D8F00E4B810 /* 10807. 개수 세기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C244C029BF0D8F00E4B810 /* 10807. 개수 세기.swift */; };
+		67C244C329BF103000E4B810 /* 10810. 공 넣기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C244C229BF103000E4B810 /* 10810. 공 넣기.swift */; };
 		67C58D97289407850002765B /* Lv1. CollatzConjecture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C58D96289407850002765B /* Lv1. CollatzConjecture.swift */; };
 		67C97F4528ACE58F00F7FC7B /* Lv2. CorrectParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C97F4428ACE58F00F7FC7B /* Lv2. CorrectParentheses.swift */; };
 		67C97F4728ACEB6700F7FC7B /* Lv2. H-Index.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C97F4628ACEB6700F7FC7B /* Lv2. H-Index.swift */; };
@@ -148,6 +149,7 @@
 		679E11B0285F8C5200A75755 /* Algorithm Test */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Algorithm Test"; sourceTree = BUILT_PRODUCTS_DIR; };
 		679E11B3285F8C5200A75755 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		67C244C029BF0D8F00E4B810 /* 10807. 개수 세기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10807. 개수 세기.swift"; sourceTree = "<group>"; };
+		67C244C229BF103000E4B810 /* 10810. 공 넣기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10810. 공 넣기.swift"; sourceTree = "<group>"; };
 		67C58D96289407850002765B /* Lv1. CollatzConjecture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. CollatzConjecture.swift"; sourceTree = "<group>"; };
 		67C97F4428ACE58F00F7FC7B /* Lv2. CorrectParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv2. CorrectParentheses.swift"; sourceTree = "<group>"; };
 		67C97F4628ACEB6700F7FC7B /* Lv2. H-Index.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv2. H-Index.swift"; sourceTree = "<group>"; };
@@ -191,6 +193,7 @@
 				67E6F92129B9FD81009DF31A /* 25304. 영수증.swift */,
 				67CE65B229BB5DFB004B5D78 /* 25314. 코딩은 체육과목 입니다.swift */,
 				67C244C029BF0D8F00E4B810 /* 10807. 개수 세기.swift */,
+				67C244C229BF103000E4B810 /* 10810. 공 넣기.swift */,
 			);
 			path = Baekjoon;
 			sourceTree = "<group>";
@@ -376,6 +379,7 @@
 				67538365287E6AC30048641C /* Lv1. rectangleStar.swift in Sources */,
 				671EC9D7287597F900F021E6 /* Lv1. MinRectangle.swift in Sources */,
 				675383762883FBD80048641C /* Lv1. 최대공약수와 최소공배수.swift in Sources */,
+				67C244C329BF103000E4B810 /* 10810. 공 넣기.swift in Sources */,
 				6753837C288534F80048641C /* Lv1. strangeChar.swift in Sources */,
 				671EC9D128747F8700F021E6 /* Lv1. 3baseRadix.swift in Sources */,
 				67E6F92229B9FD81009DF31A /* 25304. 영수증.swift in Sources */,
