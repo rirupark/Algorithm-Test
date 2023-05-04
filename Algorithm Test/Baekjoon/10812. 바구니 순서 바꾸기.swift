@@ -15,6 +15,6 @@ func B10812() {
         for _ in i..<k {
             bucket.insert(bucket[i...k].removeFirst(), at: j)
         }
-        print(bucket)
     }
+    print(bucket.map{String($0)}.joined(separator: " "))
 }
