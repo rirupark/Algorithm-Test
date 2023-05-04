@@ -1,3 +1,3 @@
 # Algorithm Test
-### Programmers & Baekjoon Algorithm Coding Test 2022
+### Programmers & Baekjoon Algorithm Coding Test
 Language : Swift
