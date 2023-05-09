@@ -4,6 +4,7 @@
 //
 //  Created by 박민주 on 2022/06/23.
 //
+// 그리디 알고리즘 (탐욕법)
 
 import Foundation
 
