@@ -36,3 +36,27 @@ func binarySearchIteration(_ array: [Int], num: Int) -> Bool {
     }
     return false
 }
+
+// 정렬된 리스트에서 찾는 값 이상의 값이 처음 나오는 위치 찾기
+func lowerBound(_ arr: [Int], _ num: Int) -> Int {
+    var start = 0
+    var end = arr.count
+    while start < end {
+        let mid = (start + end)/2
+        if arr[mid] < num { start = mid + 1 }
+        else { end = mid }
+    }
+    return start
+}
+
+// 정렬된 리스트에서 찾는 값을 초과하는 값이 처음 나오는 위치 찾기
+func upperBound(_ arr: [Int], _ num: Int) -> Int {
+    var start = 0
+    var end = arr.count
+    while start < end {
+        let mid = (start + end)/2
+        if arr[mid] <= num { start = mid + 1 }
+        else { start = mid }
+    }
+    return start
+}
