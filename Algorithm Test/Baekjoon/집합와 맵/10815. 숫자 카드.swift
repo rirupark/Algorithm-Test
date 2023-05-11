@@ -6,6 +6,7 @@
 //
 // 이분탐색(이진탐색), 자료구조, 정렬
 
+// 113312KB, 636ms
 func B10815() {
     let n = Int(readLine()!)!
     let nNums = readLine()!.split(separator: " ").map{Int($0)!}.sorted()
@@ -33,6 +34,7 @@ func B10815() {
 
 
 //다른 사람 풀이 - 이진탐색 안 씀 !
+// 129568KB, 632ms
 //readLine()
 //let array = readLine()!.split(separator: " ").map{Int(String($0))!}
 //var dic = [Int: Int]()
