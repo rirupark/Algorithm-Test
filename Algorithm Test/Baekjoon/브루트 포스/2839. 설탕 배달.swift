@@ -6,7 +6,7 @@
 //
 
 func B2839() {
-    var n = Int(readLine()!)!
+    let n = Int(readLine()!)!
     var minCount = 5000
     for i in 0...(n/3) {
         for j in 0...(n/5) {
