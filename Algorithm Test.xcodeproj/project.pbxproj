@@ -64,6 +64,7 @@
 		676643232A0E82CB001EAF6B /* 4948. 베르트랑 공준.swift in Sources */ = {isa = PBXBuildFile; fileRef = 676643222A0E82CB001EAF6B /* 4948. 베르트랑 공준.swift */; };
 		676643252A0E82D9001EAF6B /* 17103. 골드바흐 파티션.swift in Sources */ = {isa = PBXBuildFile; fileRef = 676643242A0E82D9001EAF6B /* 17103. 골드바흐 파티션.swift */; };
 		676643272A0E82E5001EAF6B /* 13909. 창문 닫기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 676643262A0E82E5001EAF6B /* 13909. 창문 닫기.swift */; };
+		676643292A0E8C17001EAF6B /* Euclidean Algorithm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 676643282A0E8C17001EAF6B /* Euclidean Algorithm.swift */; };
 		676A638C28DA06BD00B47349 /* 2357. 최솟값과 최댓값.swift in Sources */ = {isa = PBXBuildFile; fileRef = 676A638B28DA06BD00B47349 /* 2357. 최솟값과 최댓값.swift */; };
 		6771E80829C34D210007D5A9 /* 10811. 바구니 뒤집기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6771E80729C34D210007D5A9 /* 10811. 바구니 뒤집기.swift */; };
 		6771E80A29C4605F0007D5A9 /* 5597. 과제 안 내신 분..?.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6771E80929C4605F0007D5A9 /* 5597. 과제 안 내신 분..?.swift */; };
@@ -244,6 +245,7 @@
 		676643222A0E82CB001EAF6B /* 4948. 베르트랑 공준.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "4948. 베르트랑 공준.swift"; sourceTree = "<group>"; };
 		676643242A0E82D9001EAF6B /* 17103. 골드바흐 파티션.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17103. 골드바흐 파티션.swift"; sourceTree = "<group>"; };
 		676643262A0E82E5001EAF6B /* 13909. 창문 닫기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "13909. 창문 닫기.swift"; sourceTree = "<group>"; };
+		676643282A0E8C17001EAF6B /* Euclidean Algorithm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Euclidean Algorithm.swift"; sourceTree = "<group>"; };
 		676A638B28DA06BD00B47349 /* 2357. 최솟값과 최댓값.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2357. 최솟값과 최댓값.swift"; sourceTree = "<group>"; };
 		6771E80729C34D210007D5A9 /* 10811. 바구니 뒤집기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10811. 바구니 뒤집기.swift"; sourceTree = "<group>"; };
 		6771E80929C4605F0007D5A9 /* 5597. 과제 안 내신 분..?.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "5597. 과제 안 내신 분..?.swift"; sourceTree = "<group>"; };
@@ -395,6 +397,7 @@
 				676643222A0E82CB001EAF6B /* 4948. 베르트랑 공준.swift */,
 				676643242A0E82D9001EAF6B /* 17103. 골드바흐 파티션.swift */,
 				676643262A0E82E5001EAF6B /* 13909. 창문 닫기.swift */,
+				676643282A0E8C17001EAF6B /* Euclidean Algorithm.swift */,
 			);
 			name = "약수, 배수와 소수 2";
 			path = "약수, 배수와 소수 2";
@@ -869,6 +872,7 @@
 				67A430E12A0118AE004C085B /* 11654. 아스키 코드.swift in Sources */,
 				67CFD0B42A0BB73700C9B561 /* 10989. 수 정렬하기 3.swift in Sources */,
 				67CE12FE2A0D221600DF3668 /* BinarySearch.swift in Sources */,
+				676643292A0E8C17001EAF6B /* Euclidean Algorithm.swift in Sources */,
 				67AD441F2A08EDCF006DB3E9 /* 5086. 배수와 약수.swift in Sources */,
 				678209482A0A4077000D6F81 /* 24266. 알고리즘의 수행 시간 5.swift in Sources */,
 				677D97D02861A13B005FC3A0 /* Lv1. lotto.swift in Sources */,
