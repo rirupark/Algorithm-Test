@@ -632,9 +632,9 @@
 		679E11B2285F8C5200A75755 /* Algorithm Test */ = {
 			isa = PBXGroup;
 			children = (
-				676A638A28DA05FF00B47349 /* Baekjoon */,
-				676A638928DA05EF00B47349 /* Programmers */,
 				679E11B3285F8C5200A75755 /* main.swift */,
+				676A638928DA05EF00B47349 /* Programmers */,
+				676A638A28DA05FF00B47349 /* Baekjoon */,
 			);
 			path = "Algorithm Test";
 			sourceTree = "<group>";
