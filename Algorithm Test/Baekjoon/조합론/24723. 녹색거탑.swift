@@ -1,0 +1,10 @@
+//
+//  24723. 녹색거탑.swift
+//  Algorithm Test
+//
+//  Created by 박민주 on 2023/05/15.
+//
+
+func B24723() {
+    
+}
