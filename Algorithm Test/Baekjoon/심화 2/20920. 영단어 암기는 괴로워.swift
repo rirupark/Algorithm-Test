@@ -6,6 +6,8 @@
 //
 // 자료 구조, 문자열, 정렬, 해시를 사용한 집합과 맵, 트리를 사용한 집합과 맵
 
+// * 딕셔너리는 정렬 시 sorted() 함수만 사용 가능 (sort() 불가능)
+
 func B20920() {
     var dic = [String: Int]()
     let nm = readLine()!.split(separator: " ").map{Int($0)!}
@@ -25,4 +27,3 @@ func B20920() {
 
     sortedDic.forEach { print($0.key) }
 }
-
