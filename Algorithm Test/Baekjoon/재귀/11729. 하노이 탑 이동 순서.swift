@@ -7,6 +7,7 @@
 // 재귀
 
 // (n - 1)개의 원판을 a에서 b, b에서 c로 옮긴다.
+// 점화식 : 2^n - 1
 func B11729() {
     let n = Int(readLine()!)!
     var answer = "", count = 0
