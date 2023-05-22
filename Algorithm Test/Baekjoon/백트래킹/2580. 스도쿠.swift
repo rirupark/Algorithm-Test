@@ -21,25 +21,25 @@ func B2580() {
     }
     sudoku(0)
 
-    func checkRow(_ x: Int, _ a: Int) -> Bool {
+    func checkRow(_ x: Int, _ n: Int) -> Bool {
         for i in 0..<9 {
-            if a == board[x][i] { return false }
+            if n == board[x][i] { return false }
         }
         return true
     }
 
-    func checkCol(_ y: Int, _ a: Int) -> Bool {
+    func checkCol(_ y: Int, _ n: Int) -> Bool {
         for i in 0..<9 {
-            if a == board[i][y] { return false }
+            if n == board[i][y] { return false }
         }
         return true
     }
 
-    func checkSquare(_ x: Int, _ y: Int, _ a: Int) -> Bool {
+    func checkSquare(_ x: Int, _ y: Int, _ n: Int) -> Bool {
         let squareX = x / 3 * 3, squareY = y / 3 * 3
         for i in 0..<3 {
             for j in 0..<3 {
-                if a == board[squareX + i][squareY + j] { return false }
+                if n == board[squareX + i][squareY + j] { return false }
             }
         }
         return true
