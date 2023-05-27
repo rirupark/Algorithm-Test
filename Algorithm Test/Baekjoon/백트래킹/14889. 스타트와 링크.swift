@@ -11,7 +11,7 @@ func B14889() {
     var array = [[Int]]()
     var startTeam = 0, linkTeam = 0
     var visited = [Bool](repeating: false, count: n)
-    var depth = 1, minValue = Int.max
+    var minValue = Int.max
     for _ in 0..<n {
         array.append(readLine()!.split(separator: " ").map{Int($0)!})
     }
