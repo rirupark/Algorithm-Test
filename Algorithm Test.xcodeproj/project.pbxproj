@@ -176,6 +176,8 @@
 		67B83B962A2612360010C569 /* 2579. 계단 오르기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67B83B952A2612360010C569 /* 2579. 계단 오르기.swift */; };
 		67B83B982A2612D00010C569 /* 1463. 1로 만들기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67B83B972A2612D00010C569 /* 1463. 1로 만들기.swift */; };
 		67B83B9D2A26279D0010C569 /* 1302. 베스트셀러.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67B83B9C2A26279D0010C569 /* 1302. 베스트셀러.swift */; };
+		67B83BA02A262B010010C569 /* 28138. 재밌는 나머지 연산.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67B83B9F2A262B010010C569 /* 28138. 재밌는 나머지 연산.swift */; };
+		67B83BA22A262DA40010C569 /* 2609. 최대공약수와 최소공배수.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67B83BA12A262DA40010C569 /* 2609. 최대공약수와 최소공배수.swift */; };
 		67BEC08B2A12366E00A62242 /* 15439. 베라의 패션.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67BEC08A2A12366E00A62242 /* 15439. 베라의 패션.swift */; };
 		67BEC08D2A12367800A62242 /* 24723. 녹색거탑.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67BEC08C2A12367800A62242 /* 24723. 녹색거탑.swift */; };
 		67BEC08F2A12368100A62242 /* 10872. 팩토리얼.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67BEC08E2A12368100A62242 /* 10872. 팩토리얼.swift */; };
@@ -422,6 +424,8 @@
 		67B83B952A2612360010C569 /* 2579. 계단 오르기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2579. 계단 오르기.swift"; sourceTree = "<group>"; };
 		67B83B972A2612D00010C569 /* 1463. 1로 만들기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1463. 1로 만들기.swift"; sourceTree = "<group>"; };
 		67B83B9C2A26279D0010C569 /* 1302. 베스트셀러.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1302. 베스트셀러.swift"; sourceTree = "<group>"; };
+		67B83B9F2A262B010010C569 /* 28138. 재밌는 나머지 연산.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "28138. 재밌는 나머지 연산.swift"; sourceTree = "<group>"; };
+		67B83BA12A262DA40010C569 /* 2609. 최대공약수와 최소공배수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2609. 최대공약수와 최소공배수.swift"; sourceTree = "<group>"; };
 		67BEC08A2A12366E00A62242 /* 15439. 베라의 패션.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "15439. 베라의 패션.swift"; sourceTree = "<group>"; };
 		67BEC08C2A12367800A62242 /* 24723. 녹색거탑.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "24723. 녹색거탑.swift"; sourceTree = "<group>"; };
 		67BEC08E2A12368100A62242 /* 10872. 팩토리얼.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10872. 팩토리얼.swift"; sourceTree = "<group>"; };
@@ -942,6 +946,8 @@
 			isa = PBXGroup;
 			children = (
 				67B83B9C2A26279D0010C569 /* 1302. 베스트셀러.swift */,
+				67B83B9F2A262B010010C569 /* 28138. 재밌는 나머지 연산.swift */,
+				67B83BA12A262DA40010C569 /* 2609. 최대공약수와 최소공배수.swift */,
 			);
 			name = "기타";
 			path = "기타";
@@ -1109,6 +1115,7 @@
 				671EC9CB2871C0B400F021E6 /* Lv1. budget.swift in Sources */,
 				676643192A0E82A0001EAF6B /* 13241. 최소공배수.swift in Sources */,
 				67C244C129BF0D8F00E4B810 /* 10807. 개수 세기.swift in Sources */,
+				67B83BA02A262B010010C569 /* 28138. 재밌는 나머지 연산.swift in Sources */,
 				677D97DA28644FE4005FC3A0 /* Lv1. mockTest.swift in Sources */,
 				67CFD0BA2A0BB75600C9B561 /* 11651. 좌표 정렬하기 2.swift in Sources */,
 				67538365287E6AC30048641C /* Lv1. rectangleStar.swift in Sources */,
@@ -1285,6 +1292,7 @@
 				67B349D42A222196005566C1 /* 9184. 신나는 함수 실행.swift in Sources */,
 				670E47D42897EF8800EBDCB8 /* Lv1. intSqrt.swift in Sources */,
 				67B349D82A223363005566C1 /* 9461. 파도반 수열.swift in Sources */,
+				67B83BA22A262DA40010C569 /* 2609. 최대공약수와 최소공배수.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
