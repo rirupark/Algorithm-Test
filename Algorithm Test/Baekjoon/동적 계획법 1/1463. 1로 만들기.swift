@@ -5,7 +5,7 @@
 //  Created by 박민주 on 2023/05/30.
 //
 // DP
-// bottom-up, 1을 다른 해당 숫자로 만드는 방법의 최소 연산으 ㅣ수
+// bottom-up, 1을 다른 해당 숫자로 만드는 방법의 최소 연산의 수
 
 func B1463() {
     let n = Int(readLine()!)!
