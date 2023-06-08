@@ -21,6 +21,7 @@ func B2630() {
                 else { blueTemp += 1 }
             }
         }
+        // 0의 개수와 1의 개수를 세어서 그 갯수가 n * n 의 갯수라면 전부 같은 색
         if whiteTemp == n * n { whiteCnt += 1; return }
         if blueTemp == n * n { blueCnt += 1; return }
         
