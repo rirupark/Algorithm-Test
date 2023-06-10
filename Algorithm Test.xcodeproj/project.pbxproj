@@ -237,6 +237,7 @@
 		67CFD0C02A0BB77100C9B561 /* 18870. 좌표 압축.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67CFD0BF2A0BB77100C9B561 /* 18870. 좌표 압축.swift */; };
 		67CFD0C22A0BC03700C9B561 /* MergeSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67CFD0C12A0BC03700C9B561 /* MergeSort.swift */; };
 		67CFD0C42A0BC19200C9B561 /* RadixSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67CFD0C32A0BC19200C9B561 /* RadixSort.swift */; };
+		67D2A9882A34859400D023AC /* 1780. 종이의 개수.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67D2A9872A34859400D023AC /* 1780. 종이의 개수.swift */; };
 		67D6903A289AAC890072562D /* Lv2. theLargestNum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67D69039289AAC890072562D /* Lv2. theLargestNum.swift */; };
 		67D6903C289C01800072562D /* Lv2. Printer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67D6903B289C01800072562D /* Lv2. Printer.swift */; };
 		67D6903E289D641A0072562D /* Lv2. FuncDevelopment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67D6903D289D641A0072562D /* Lv2. FuncDevelopment.swift */; };
@@ -500,6 +501,7 @@
 		67CFD0BF2A0BB77100C9B561 /* 18870. 좌표 압축.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "18870. 좌표 압축.swift"; sourceTree = "<group>"; };
 		67CFD0C12A0BC03700C9B561 /* MergeSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeSort.swift; sourceTree = "<group>"; };
 		67CFD0C32A0BC19200C9B561 /* RadixSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadixSort.swift; sourceTree = "<group>"; };
+		67D2A9872A34859400D023AC /* 1780. 종이의 개수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1780. 종이의 개수.swift"; sourceTree = "<group>"; };
 		67D69039289AAC890072562D /* Lv2. theLargestNum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv2. theLargestNum.swift"; sourceTree = "<group>"; };
 		67D6903B289C01800072562D /* Lv2. Printer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv2. Printer.swift"; sourceTree = "<group>"; };
 		67D6903D289D641A0072562D /* Lv2. FuncDevelopment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv2. FuncDevelopment.swift"; sourceTree = "<group>"; };
@@ -552,6 +554,7 @@
 			children = (
 				674A090D2A31F2B10014D6A7 /* 2630. 색종이 만들기.swift */,
 				674C61162A335408008144E1 /* 1992. 쿼드트리.swift */,
+				67D2A9872A34859400D023AC /* 1780. 종이의 개수.swift */,
 			);
 			name = "분할 정복";
 			path = "분할 정복";
@@ -1183,6 +1186,7 @@
 				67BEC0932A12369700A62242 /* 1010. 다리 놓기.swift in Sources */,
 				678DFD6A286610700098E308 /* Lv1. addNonExistNum.swift in Sources */,
 				677D97D42861D126005FC3A0 /* Lv1. newID.swift in Sources */,
+				67D2A9882A34859400D023AC /* 1780. 종이의 개수.swift in Sources */,
 				6753834A2876A4FD0048641C /* Lv1. toSortString.swift in Sources */,
 				671EC9CB2871C0B400F021E6 /* Lv1. budget.swift in Sources */,
 				676643192A0E82A0001EAF6B /* 13241. 최소공배수.swift in Sources */,
