@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6700906E2A432206006C1888 /* 17413. 단어 뒤집기 2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6700906D2A432206006C1888 /* 17413. 단어 뒤집기 2.swift */; };
 		670E47D42897EF8800EBDCB8 /* Lv1. intSqrt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 670E47D32897EF8800EBDCB8 /* Lv1. intSqrt.swift */; };
 		670E47D62897F6BF00EBDCB8 /* Lv1. secretMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 670E47D52897F6BF00EBDCB8 /* Lv1. secretMap.swift */; };
 		670E47D8289939FC00EBDCB8 /* Lv1. dartsGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 670E47D7289939FC00EBDCB8 /* Lv1. dartsGame.swift */; };
@@ -281,6 +282,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		6700906D2A432206006C1888 /* 17413. 단어 뒤집기 2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17413. 단어 뒤집기 2.swift"; sourceTree = "<group>"; };
 		670E47D32897EF8800EBDCB8 /* Lv1. intSqrt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. intSqrt.swift"; sourceTree = "<group>"; };
 		670E47D52897F6BF00EBDCB8 /* Lv1. secretMap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. secretMap.swift"; sourceTree = "<group>"; };
 		670E47D7289939FC00EBDCB8 /* Lv1. dartsGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. dartsGame.swift"; sourceTree = "<group>"; };
@@ -788,6 +790,7 @@
 				67EEF8A22A3C9536001E07F8 /* 1032. 명령 프롬프트.swift */,
 				675D8DF62A40786C0065C18D /* 10610. 30.swift */,
 				6740F76B2A41D6A5000FEB6B /* 11656. 접미사 배열.swift */,
+				6700906D2A432206006C1888 /* 17413. 단어 뒤집기 2.swift */,
 			);
 			name = "문자열";
 			path = "문자열";
@@ -1358,6 +1361,7 @@
 				678DFD722868D1600098E308 /* Lv1. InnerProduct.swift in Sources */,
 				67C97F4728ACEB6700F7FC7B /* Lv2. H-Index.swift in Sources */,
 				67C8EA2A2A02A656009EF5D3 /* 2444. 별 찍기 - 7.swift in Sources */,
+				6700906E2A432206006C1888 /* 17413. 단어 뒤집기 2.swift in Sources */,
 				671EC9C7286F3B3C00F021E6 /* Lv1. primeNum.swift in Sources */,
 				676643212A0E82C0001EAF6B /* 1929. 소수 구하기.swift in Sources */,
 				67CFD0C02A0BB77100C9B561 /* 18870. 좌표 압축.swift in Sources */,
