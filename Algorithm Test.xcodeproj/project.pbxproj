@@ -66,6 +66,7 @@
 		6753837E2886D1790048641C /* Lv1. countP&Y.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6753837D2886D1790048641C /* Lv1. countP&Y.swift */; };
 		675383802888242B0048641C /* Lv1. sumOfMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6753837F2888242B0048641C /* Lv1. sumOfMatrix.swift */; };
 		6753838228882D060048641C /* Lv1. CaesarCipher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6753838128882D060048641C /* Lv1. CaesarCipher.swift */; };
+		675585AE2A4B084F005DA12D /* 1543. 문서 검색.swift in Sources */ = {isa = PBXBuildFile; fileRef = 675585AD2A4B084F005DA12D /* 1543. 문서 검색.swift */; };
 		675D8DF72A40786C0065C18D /* 10610. 30.swift in Sources */ = {isa = PBXBuildFile; fileRef = 675D8DF62A40786C0065C18D /* 10610. 30.swift */; };
 		6764F2272A2CADB3008FDE92 /* 1931. 회의실 배정.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6764F2262A2CADB3008FDE92 /* 1931. 회의실 배정.swift */; };
 		6764F2292A2DFC44008FDE92 /* 11399. ATM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6764F2282A2DFC44008FDE92 /* 11399. ATM.swift */; };
@@ -347,6 +348,7 @@
 		6753837D2886D1790048641C /* Lv1. countP&Y.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. countP&Y.swift"; sourceTree = "<group>"; };
 		6753837F2888242B0048641C /* Lv1. sumOfMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. sumOfMatrix.swift"; sourceTree = "<group>"; };
 		6753838128882D060048641C /* Lv1. CaesarCipher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lv1. CaesarCipher.swift"; sourceTree = "<group>"; };
+		675585AD2A4B084F005DA12D /* 1543. 문서 검색.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1543. 문서 검색.swift"; sourceTree = "<group>"; };
 		675D8DF62A40786C0065C18D /* 10610. 30.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10610. 30.swift"; sourceTree = "<group>"; };
 		6764F2262A2CADB3008FDE92 /* 1931. 회의실 배정.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1931. 회의실 배정.swift"; sourceTree = "<group>"; };
 		6764F2282A2DFC44008FDE92 /* 11399. ATM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11399. ATM.swift"; sourceTree = "<group>"; };
@@ -809,6 +811,7 @@
 				6737AABC2A473148002B1B8F /* 11719. 그대로 출력하기 2.swift */,
 				6731DF262A485CD80070761C /* 5635. 생일.swift */,
 				67EE23FC2A49971400B09203 /* 12904. A와 B.swift */,
+				675585AD2A4B084F005DA12D /* 1543. 문서 검색.swift */,
 			);
 			name = "문자열";
 			path = "문자열";
@@ -1360,6 +1363,7 @@
 				67B665C02A13CF5100781EFA /* 1021. 회전하는 큐.swift in Sources */,
 				677D97CE28608807005FC3A0 /* main.swift in Sources */,
 				67AD44232A08FCF2006DB3E9 /* 9506. 약수들의 합.swift in Sources */,
+				675585AE2A4B084F005DA12D /* 1543. 문서 검색.swift in Sources */,
 				67B83BAB2A29F6B60010C569 /* 11659. 구간 합 구하기 4.swift in Sources */,
 				67AD44212A08FB94006DB3E9 /* 2501. 약수 구하기.swift in Sources */,
 				671EC9C5286F380800F021E6 /* Lv1. pressKeypad.swift in Sources */,
