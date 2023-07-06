@@ -8,7 +8,7 @@
 
 func B11053() {
     let n = Int(readLine()!)!
-    var a = readLine()!.split(separator: " ").map{Int($0)!}
+    let a = readLine()!.split(separator: " ").map{Int($0)!}
     var cache = [Int](repeating: 1, count: n)
     for i in 1..<n {
         for j in 0..<i {
